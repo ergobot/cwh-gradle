@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/test/java">
+		<attributes>
+			<attribute name="FROM_GRADLE_MODEL" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/Java8"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="libs/jsch/jsch-0.1.50.jar"/>
+	<classpathentry kind="lib" path="libs/testing/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="libs/testing/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/testing/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="libs/testing/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="libs/testing/mockito-all-1.10.19.jar"/>
+	<classpathentry kind="lib" path="libs/testing/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/testing/powermock-mockito-1.6.3-full.jar"/>
+	<classpathentry kind="lib" path="libs/rxtx/RXTXcomm.jar"/>
+	<classpathentry kind="lib" path="libs/vectormath/gwt-vecmath-1.0-beta.jar"/>
+	<classpathentry kind="lib" path="libs/alphanumeric-comparator/alphanumeric-comparator-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/cling/cling-core-2.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="libs/cling/cling-support-2.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="libs/cling/httpclient-4.3.3.jar"/>
+	<classpathentry kind="lib" path="libs/cling/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="libs/cling/seamless-http-1.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="libs/cling/seamless-util-1.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="libs/cling/seamless-xml-1.0-alpha3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-cli/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-codec/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/email/mail.jar"/>
+	<classpathentry kind="lib" path="libs/freemarker/freemarker-2.3.21.jar"/>
+	<classpathentry kind="lib" path="libs/guava/guava-18.0.jar"/>
+	<classpathentry kind="lib" path="libs/jetty/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/jetty/javax.websocket-api-1.1.jar"/>
+	<classpathentry kind="lib" path="libs/jetty/jetty-all-9.2.3.v20140905.jar"/>
+	<classpathentry kind="lib" path="libs/jetty/servlet-api-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/httpcore-4.2.5.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/httpcore-4.2.5.oldjar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-core-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-core-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-databind-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-jaxrs-1.9.12.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-jaxrs-base-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-jaxrs-json-provider-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-mapper-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-module-jaxb-annotations-2.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jackson-xc-1.9.12.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/jaxrs-api-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/resteasy-jackson2-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/resteasy-jaxrs-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="libs/resteasy/resteasy-multipart-provider-3.0.9.Final.jar"/>
+	<classpathentry kind="lib" path="libs/jssc/jssc-2.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/log4j/log4j-api-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/log4j/log4j-core-2.5.jar"/>
+	<classpathentry kind="lib" path="libs/mp4parser/mp4parser.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
